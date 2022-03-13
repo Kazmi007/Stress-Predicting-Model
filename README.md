@@ -3,7 +3,7 @@ A supervised machine learning model that uses a decision tree to accurately pred
 
 The model predicts with an accuracy score of 99.7% and uses the following decision tree:
 
-
+![My Image](stress predictor.jpg)
 
 The repository features a python notebook that uses libraries like pandas and scikit learn for the model.
 
